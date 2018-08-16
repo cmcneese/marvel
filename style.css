@@ -13,7 +13,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 306px 55px;
+    /* padding: 306px 55px; Sizing based on comp */
+    height: 100%;
 }
 
 .button {
